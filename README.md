@@ -5,7 +5,7 @@
 - A atividade deve ser desenvolvida em equipes de no mínimo 2 e no máximo 5 integrantes (preferencialmente 3).
 - Note que todos os integrantes da equipe devem ter "commits" relevantes em seu nome ou não terão grau atribuído.
 - Cada equipe deve escolher um dos padrões de projeto abaixo (acordar com o professor qual será o padrão para evitar que duas equipes trabalhem no mesmo padrão)
-- O trabalho deverá ser desenvolvido em uma linguagem de programação orientada a objetos (preferencialmente Java)
+- O trabalho deverá ser desenvolvido em uma linguagem de programação Java.
 - Deverão ser desenvolvidos dois códigos (organizar em pastas diferentes)
   -- Um código sem o uso do padrão (um arquivo readme deve descrever a situação problema)
   -- Um código usando o padrao (um arquivo readme deve descrever como o padrão resolveu o problema)
